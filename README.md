@@ -1,1 +1,1 @@
-# My Projects for *The Odin Project*
+# My Projects for The Odin Project
